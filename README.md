@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+Atualmente sou estudante do IFBA - Campus Salvador, no curso técnico integrado de Automação Industrial. Faço parte do GSAM (Grupo de Pesquisa em Sistemas de Automação e Mecatrônica) onde atuo em inciatias envolvendo robótica educacional utilizando Lego e Arduíno.
+Atualmente estou estudando Javascript, focando em React e pretendendo aprofundar no futuro o uso de JS no backend. 
+Já brinquei um pouco com Python, C++, PHP... mas nada aprofundado. 
+Pretendo focar no escossistema JS e me colocar no mercado de trabalho nos proximos meses/anos. 
+
+
 <!--
 **GabrielSantosSoares/GabrielSantosSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
